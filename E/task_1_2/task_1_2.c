@@ -11,18 +11,18 @@
 
 void output_1 (int f, int c) {
 	printf("%5d %20dnn\n", f, c);	// '%5d' specifies the minimum width or space that the output should have
-									// the amount can be any number
-									// is the specified width less than the number needs, the number will still be printed
+					// the amount can be any number
+					// is the specified width less than the number needs, the number will still be printed
 }
 
 void output_2 (int f, int c) {
 	printf("%-5d %-5dnn", f, c);	// negative numbers reserve place on the back of the number
-									// positive numbers reserve space on the front of the number
+					// positive numbers reserve space on the front of the number
 }
 
 void output_3 (int f, int c) {
-	printf("%3d %6dn n", f, c);		// printing '%dn n' does not interrupt the '%d' command
-									// it will still print the variable plus without a break 'n n'
+	printf("%3d %6dn n", f, c);	// printing '%dn n' does not interrupt the '%d' command
+					// it will still print the variable plus without a break 'n n'
 }
 
 void main(){
