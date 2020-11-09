@@ -2,7 +2,7 @@
  * task_1_3.c
  *
  *  Created on: 30.10.2020
- *      Author: lars
+ *      Author: lars, jonas
  */
 
 
