@@ -1,6 +1,6 @@
 /*
 ============================================================================
-Name : PlainCHelloWorld.c
+Name : task_1_1.c
 Author : J. Endler
 Version :
 Copyright : 
